@@ -1,6 +1,6 @@
-# roughbuff
+# roughbuff v0.1
 
-A buffer overflow tool for simple stack based buffer overflows. Developed as I learn more about buffer overflows.
+A tool for discovering and exploiting simple stack based buffer overflows. Developed as I learn more about buffer overflows.
 
 ## Instructions
 
